@@ -1,0 +1,54 @@
+[
+  {
+    "img": "../Assets/images/rooms/1.jpg",
+    "title": "Baobar Dorm",
+    "subTitle": " 12 Beds",
+    "text": "This room accommodates 12 beds wrapped around a massive Baobab tree. Fun fact: This dorm used to be the bar in the first year of our existence! You'll truly connect with nature and past party vibes in this unique dorm. Bathrooms are shared.",
+    "cost": "1000 ksh per night",
+    "alt": "A 12 bed dormitory room"
+  },
+
+  {
+    "img": "../Assets/images/rooms/2.jpg",
+    "title": "International Dorm",
+    "subTitle": " 8 Beds",
+    "text": "The International dorm can sleep 8 people and is still somehow the most spacious. It's nestled in our tropical garden with a view of the pool. Direct access to the pool (4 meters) for early healthy people or hangovers to be washed away. Bathrooms are shared.",
+    "cost": "1000 ksh per night",
+    "alt": "An 8 bed dormitory room"
+  },
+
+  {
+    "img": "../Assets/images/rooms/3.jpg",
+    "title": "Jacuzzi dorm",
+    "subTitle": " 6 Beds",
+    "text": "This room accommodates 6 beds wrapped around a massive Baobab tree. Fun fact: This dorm used to be the bar in the first year of our existence! You'll truly connect with nature and past party vibes in this unique dorm. Bathrooms are shared.",
+    "cost": "1000 ksh per night",
+    "alt": "A 6 bed dormitory room"
+  },
+
+  {
+    "img": "../Assets/images/rooms/2.jpg",
+    "title": "International Dorm",
+    "subTitle": " 8 Beds",
+    "text": "The International dorm can sleep 8 people and is still somehow the most spacious. It's nestled in our tropical garden with a view of the pool. Direct access to the pool (4 meters) for early healthy people or hangovers to be washed away. Bathrooms are shared.",
+    "cost": "1000 ksh per night",
+    "alt": "An 8 bed dormitory room"
+  },
+
+  {
+    "img": "../Assets/images/rooms/1.jpg",
+    "title": "Baobar Dorm",
+    "subTitle": " 12 Beds",
+    "text": "This room accommodates 12 beds wrapped around a massive Baobab tree. Fun fact: This dorm used to be the bar in the first year of our existence! You'll truly connect with nature and past party vibes in this unique dorm. Bathrooms are shared.",
+    "cost": "1000 ksh per night",
+    "alt": "A 12 bed dormitory room"
+  },
+  {
+    "img": "../Assets/images/rooms/3.jpg",
+    "title": "Jacuzzi dorm",
+    "subTitle": " 6 Beds",
+    "text": "This room accommodates 6 beds wrapped around a massive Baobab tree. Fun fact: This dorm used to be the bar in the first year of our existence! You'll truly connect with nature and past party vibes in this unique dorm. Bathrooms are shared.",
+    "cost": "1000 ksh per night",
+    "alt": "A 6 bed dormitory room"
+  }
+]

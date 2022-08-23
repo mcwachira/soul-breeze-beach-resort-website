@@ -1,0 +1,16 @@
+[
+  {
+    "img": "../Assets/images/bg/beach1.jpg",
+    "alt": "beach with people"
+  },
+
+  {
+    "img": "../Assets/images/bg/beach2.jpg",
+    "alt": "sunny beach"
+  },
+
+  {
+    "img": "../Assets/images/bg/people.jpg",
+    "alt": "Cool backpackers"
+  }
+]

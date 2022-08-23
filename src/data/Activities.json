@@ -1,0 +1,43 @@
+[
+  {
+    "img": "../Assets/images/activities/Fish-Boat.jpg",
+    "title": "Fishing Trips",
+    "text": "Meet the locals. Don’t be afraid of going for a little excursion with the beach boys, next to our Resort. The little support you give to the locals, will serve you a day with a different experience.",
+    "alt": "A boat on the ocean"
+  },
+
+  {
+    "img": "../Assets/images/activities/Starfish-diani-beach.jpg",
+    "title": "Day Trips",
+    "text": "We organise several day Trips. Chale Island, Funzi Island,Wassini Island and more are waiting for you. Discover these beautiful little Islands with our professional tour guides.",
+    "alt": "A Star fish "
+  },
+
+  {
+    "img": "../Assets/images/activities/Safaris.jpg",
+    "title": "Safaris",
+    "text": "Safaris are your once in a lifetime chance to get surrounded by Elephants, Lions Giraffes and more in their natural environment. Tsavo East & West are the closest Safari Park next to our Resort.",
+    "alt": "Lions in Tsavo National Park"
+  },
+
+  {
+    "img": "../Assets/images/activities/scuba-duka.jpg",
+    "title": "Scuba Duka",
+    "text": "Scuba Duka is the diving school on our compound. We truly believe in serving quality experiences so the groups a maximum of 6 people with the instructor. You can also get your open water license, and become a diving master.",
+    "alt": "Divers observing Turtles in the Indian Ocean"
+  },
+
+  {
+    "img": "../Assets/images/activities/kitesurfing.jpg",
+    "title": "Kite Motion",
+    "text": "  Why should you enjoy the view only from the beach onto the ocean? Take a board, and use the perfect wind between December and March to go kiting. Even if it’s your first try… Don’t worry, the Kite Motions team will teach you to have fun.",
+    "alt": "A Person Kite surfing"
+  },
+
+  {
+    "img": "../Assets/images/activities/Jungle-Gym.jpg",
+    "title": "Jungle Gym",
+    "text": "Your content goes here. Edit or remove this text inline or in the module Content settings. You can also style every aspect of this content in the module Design settings and even apply custom CSS to this text in the module Advanced settings.",
+    "alt": "Soul breeze beach resort Gym"
+  }
+]
