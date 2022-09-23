@@ -58,7 +58,7 @@ const About = () => {
               className="img-fluid"
               src="../assets/images/hotel.jpg"
               alt="soul breeze hotel"
-              placeHolder="blurred"
+              placeholder="blurred"
               layout="fixed"
               width={600}
               height={400}

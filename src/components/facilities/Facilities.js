@@ -20,7 +20,7 @@ const Facilities = () => {
             <StaticImage
               src="../../assets/images/bar.jpeg"
               alt="soul breeze bar"
-              placeHolder="blurred"
+              placeholder="blurred"
               layout="fixed"
               width={600}
               height={400}
@@ -55,7 +55,7 @@ const Facilities = () => {
             <StaticImage
               src="../../assets/images/tennis/tennis.jpeg"
               alt="Tennis Court"
-              placeHolder="blurred"
+              placeholder="blurred"
               layout="fixed"
               width={600}
               height={400}
@@ -69,7 +69,7 @@ const Facilities = () => {
             <StaticImage
               src="../../assets/images/swimming-pool.jpg"
               alt="soul breeze swimming pool"
-              placeHolder="blurred"
+              placeholder="blurred"
               layout="fixed"
               width={700}
               height={400}
@@ -101,7 +101,7 @@ const Facilities = () => {
             <StaticImage
               src="../../assets/images/beach-volleyball-2.jpeg"
               alt="Beach volleyball"
-              placeHolder="blurred"
+              placeholder="blurred"
               layout="fixed"
               width={600}
               height={400}
@@ -115,7 +115,7 @@ const Facilities = () => {
             <StaticImage
               src="../../assets/images/Jungle-Gym.jpg"
               alt="soul breeze backpackers logo"
-              placeHolder="blurred"
+              placeholder="blurred"
               layout="fixed"
               width={700}
               height={400}

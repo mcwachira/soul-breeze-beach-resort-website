@@ -12,7 +12,7 @@ const Header = () => {
           <StaticImage
             src="../../assets/images/beach1.jpg"
             alt="soul breeze backpackers logo"
-            placeHolder="blurred"
+            placeholder="blurred"
             layout="fixed"
             width={1200}
             height={800}

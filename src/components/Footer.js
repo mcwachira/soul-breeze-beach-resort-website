@@ -72,7 +72,7 @@ const Footer = () => {
         </Col>
       </Row>
       <Row>
-        <CopyRight lg={12} mb-0>
+        <CopyRight lg={12} mb-0="true">
           <p className="text-center text-white">
             Copyright {new Date().getFullYear()} Soul Breeze Beach Resort- ALL RIGHTS RESERVED
           </p>

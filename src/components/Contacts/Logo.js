@@ -20,7 +20,7 @@ const Logo = () => {
       <StaticImage
         src="../../assets/images/logos/Soul-breeze-Logo-small.png"
         alt="soul breeze backpackers logo"
-        placeHolder="blurred"
+        placeholder="blurred"
         layout="fixed"
         width={100}
         height={100}

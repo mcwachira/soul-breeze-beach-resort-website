@@ -84,7 +84,7 @@ const NavbarLinks = () => {
 
       <NavItem to="/facilities">Facilities</NavItem>
       <ExternalLink href="https://www.soulbreezebackpackers.com" target="_blank" rel="noopener noreferrer">Backpackers </ExternalLink>
-      <ExternalLink class="ha-dual-btn ha-dual-btn--left" href="https://booking.frontdeskmaster.com/?hostelId=8WLO44kZDjGcYszcNSqvjDQwFwGIliEr" target="_blank" rel="noopener noreferrer">Book a room </ExternalLink>
+      <ExternalLink className="ha-dual-btn ha-dual-btn--left" href="https://booking.frontdeskmaster.com/?hostelId=8WLO44kZDjGcYszcNSqvjDQwFwGIliEr" target="_blank" rel="noopener noreferrer">Book a room </ExternalLink>
 
       <NavItem to="/contacts">Contact Us</NavItem>
     </>
