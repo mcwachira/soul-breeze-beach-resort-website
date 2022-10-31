@@ -13,15 +13,11 @@ const About = () => {
         <Row className="text-center ">
           <Col md={12} sm={12} xs={12}>
             <h1 className="display-2 text-center">ABOUT US</h1>
-            <h3 className="text-center p-3">Welcome To Paradise</h3>
+            <h3 className="text-center p-3">Welcome to an African Paradise</h3>
 
             <p className="lead text-center">
-              Soul Breeze Beach Resort is a friendly 'home away from home'
-              paradise located on the shores of Diani beach Kenya. With a new
-              name comes great responsibility, where your experience is key to
-              us. We simply wanted to create a unique vibe and safe space
-              welcoming all types from around the world. Let us offer you a once
-              in a lifetime experience here with us!
+              Soul Breeze Beach Resort is your friendly and enchanting paradise on the Diani Beach in the lush south coast of Kenya. Your experience here means everything to us. We simply want you to have a memorable holiday in the sun that you will treasure for life. You will enjoy being with us, savoring the best in Kenyan hospitality in a refreshing, pleasant atmosphere. We pull out all the stops to ensure you are most comfortable, enjoying an alluring and lively time on the Diani beach – the best in Africa. You will enjoy a once in a lifetime experience here with us!
+
             </p>
 
             <Button
@@ -40,17 +36,13 @@ const About = () => {
             <h3 className="text-center p-3">Paradise Far from Home</h3>
 
             <p className="lead">
-              Once you’ve experienced Soul Breeze’s spirit, we guarantee you
-              will want to come back. The Soul Breeze Beach Resort is a place of
-              a unique spirit and vibe where we see ourselves as a family. Here
-              are no strangers, just friends whom you have yet to meet! We are
-              excited to offer a safe space to accommodate all sorts of genuine
-              souls from around the globe.The relationships and memories we will
-              create together at Soul Breeze & Zanzibar Village are for life. We
-              pride ourselves on the availability of amenities we have to offer,
-              further enhancing your amazing visit to our beautiful spot in this
-              paradise we call Diani beach Kenya.
+              Once you’ve experienced Soul Breeze’s relaxed, cheerful atmosphere and vibrant spirit, we are sure you will want to come back. Here, our guests are family. When you pay us a visit, you will not find strangers, just friends looking forward to meeting you! We are excited and wait in anticipation to offer you a personalized, south coast experience. 
             </p>
+              <p>
+               The relationships and memories we will create here together are for life. And to make your stay most enjoyable, we have it all – the cuisine and the amenities to make you relax and unwind on the soft white sands of Diani beach and also don’t forget, we have Zanzibar Village within the resort, a haven for backpackers.
+            </p>
+      
+           
           </Col>
 
           <Col className="my-5">

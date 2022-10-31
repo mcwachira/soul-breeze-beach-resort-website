@@ -40,10 +40,8 @@ const Activities = () => {
               <Card.Body>
                 <Card.Title className=" display-6">Fishing Trips</Card.Title>
                 <Card.Text className="lead">
-                  Meet the locals. Don’t be afraid of going for a little
-                  excursion with the beach boys, next to our Resort. The little
-                  support you give to the locals, will serve you a day with a
-                  different experience.
+                  Meet the locals. Feel free to go for a little fishing excursion with the friendly locals next to our Resort. The little support you give to them is handy, and time with them may well give you a unique fishing experience. You could also learn more about life in Diani from our friends.
+
                 </Card.Text>
               </Card.Body>
             </Card>
@@ -81,10 +79,7 @@ const Activities = () => {
               <Card.Body>
                 <Card.Title className=" display-6"> Safaris</Card.Title>
                 <Card.Text className="lead">
-                  Safaris are your once in a lifetime chance to get surrounded
-                  by Elephants, Lions, Giraffes and more in their natural
-                  environment. Tsavo East & West are the closest Safari Parks
-                  next to our Resort.
+                  Safaris are your once in a lifetime chance to get see, at close quarters, the famed game of Africa – the elephants, lions, giraffes and more – in their natural habitat. Tsavo East & West are the closest of the big wildlife reserves next to our Resort, but we can also arrange for tours to other reserves like the Maasai Mara.
                 </Card.Text>
               </Card.Body>
             </Card>
@@ -104,10 +99,7 @@ const Activities = () => {
               <Card.Body>
                 <Card.Title className=" display-6"> Scuba Duka</Card.Title>
                 <Card.Text className="lead">
-                  Scuba Duka is the diving school on our compound. We truly
-                  believe in serving quality experiences so the groups a maximum
-                  of 6 people with the instructor. You can also get your open
-                  water license, and become a diving master.
+                  Scuba Duka is the diving school on our compound. We truly believe in giving you quality experiences, so the instructor attends to a group of 6 people maximum at any one time. You can also get your open water license and become a diving master after training in our diving school.
                 </Card.Text>
               </Card.Body>
             </Card>
@@ -125,10 +117,7 @@ const Activities = () => {
               <Card.Body>
                 <Card.Title className=" display-6"> Kite Motion</Card.Title>
                 <Card.Text className="lead">
-                  Why should you enjoy the view only from the beach onto the
-                  ocean? Take a board, and use the perfect wind between December
-                  and March to go kiting. Even if it’s your first try… Don’t
-                  worry, the Kite Motions team will teach you to have fun.
+                  Why should you enjoy the view of the ocean only from the beach? Between December and March, you can take a surfing board and use the perfect wind to go kiting. Even if it’s your first try… Don’t worry, the Kite Motions team will teach you how to have fun in the ocean.
                 </Card.Text>
               </Card.Body>
             </Card>

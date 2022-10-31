@@ -31,11 +31,7 @@ const Facilities = () => {
           <Col md={6} sm={12}>
             <h3 className="display-4">Soul Breeze Bar and Restaurant</h3>
             <p className="lead">
-              Something we shouldn’t forget – FOOD. Healthy, fresh, but still
-              tasty! Our Beach Restaurant serves you the best Pizza in Diani,
-              fresh seafood, local specialties like Pilau and Biriani, as well
-              as Vegetarian Food. As for the delicious Breakfast, it’s included
-              in our Room Rates.
+              Something we shouldn’t forget – FOOD. Fresh, healthy, and very tasty! Our Beach Restaurant serves you the best Pizza in Diani, fresh seafood, local specialties like pilau and biriani, as well as vegetarian food. As for the delicious breakfast, it’s included in our room rates.
             </p>
           </Col>
         </Row>
@@ -47,8 +43,7 @@ const Facilities = () => {
           <Col md={6} sm={12}>
             <h3 className="display-4">Tennis</h3>
             <p className="lead">
-              Come down to our resort and have a fun day playing tennis with your friends or if you want to play with professionals we have our very own Faiz, One of the best kenyan tennis player.
-              Bring  your kids along to have fun and play or  even get trained to play.We have training classes daily ran by Faiz.
+              Come down to our resort and have a fun day playing tennis with your friends. If you’d like to play with a professional, we have our very own Faiz, one of the best Kenyan tennis players. Bring your kids along to have fun and play or even get tennis classes. We have daily classes ran by Faiz.
             </p>
           </Col>
           <Col md={6} sm={12}>
@@ -79,7 +74,7 @@ const Facilities = () => {
           <Col md={6} sm={12}>
             <h3 className="display-4">The Swimming Pool</h3>
             <p className="lead">
-              Want to drink while relaxing at the pool, well come to our resort to and get world class serviceYou can also bring your kids to enjoy swimming.
+              Want to relax by the poolside? Welcome to our resort and enjoy top flight service by the pool. You can also bring your kids to enjoy swimming. And while relaxing, our service team will attend to you, ready to serve you with food or drinks.
             </p>
           </Col>
 
@@ -91,10 +86,8 @@ const Facilities = () => {
           <Col md={6} sm={12}>
             <h3 className="display-4">Beach Volleyball</h3>
             <p className="lead">
-              The first time, you step on the sand of our beach, you’ll think
-              it’s the finest flour. So soft that you won’t believe it. This
-              sand makes it perfect to play some beach volleyball and jump after
-              the ball to save points.We also have weekly beach volleyball and football competitions.
+              The first time you step on the sand at our seafront, you’ll think it’s the finest flour. So soft that you won’t believe it. This sand makes it perfect to play some beach volleyball and jump after the ball and score points. Horn your skills here.
+              And also don’t forget, we have weekly beach volleyball and football competitions.
             </p>
           </Col>
           <Col md={6} sm={12}>

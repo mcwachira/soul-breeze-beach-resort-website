@@ -29,7 +29,7 @@ const Faces = () => {
       <Container >
         <h2 className="text-center display-4 pt-5">FACES YOU’LL MEET</h2>
         <p className="text-center pt-2 lead">
-          This are some of the wonderful people you will meet at the resort.
+          These are some of the wonderful people you will meet at the resort.
         </p>
         <Row className="text-center mx-auto align-items-center">
           <Col md={4} className="d-flex pb-5 ">
@@ -48,12 +48,11 @@ const Faces = () => {
               />
               <Card.Body>
                 <Card.Title className="display-6 text-center">
-                  Salim Head Chef
+                  Salim, the Head Chef
                 </Card.Title>
                 <Card.Text className="lead">
-                  Salim is our chef. For years he’s responsible for Diani´s best
-                  Pizza, mouthwatering Sea Food and catering to your stomach’s
-                  satisfaction in general.
+                
+                  Salim is our chef of many years. He is well-known for his pizzas, as they are the best in Diani! He is also famous for his mouthwatering sea food and other world class cuisine. Indulge yourself in a rare culinary experience, courtesy of Chef Salim.
                 </Card.Text>
               </Card.Body>
             </Card>
@@ -73,12 +72,10 @@ const Faces = () => {
               />
               <Card.Body>
                 <Card.Title className="display-6 text-center">
-                  Ali Head Gardener
+                  Ali, the Head Gardener
                 </Card.Title>
                 <Card.Text className="lead">
-                  Ali is our Mr green Thumb. Years before Soul Breeze Beach
-                  Resort started, he’s been here responsible for the gardens
-                  beauty and serving you coconuts for a little tip.
+                  Ali is our Mr. green Thumb. He has been with us since Soul Breeze Beach Resort started. He is responsible for our beautiful gardens. He will also serve you madafu with their coconut juice, a tasty coastal refreshment. Don’t forget to tip him.
                 </Card.Text>
               </Card.Body>
             </Card>
@@ -99,11 +96,11 @@ const Faces = () => {
               />
               <Card.Body>
                 <Card.Title className="display-6 text-center">
-                  Dennis Pastry Chef
+                  Dennis, the Pastry Chef
                 </Card.Title>
                 <Card.Text className="lead">
-                  Dennis, joined our restaurants team and is part of the happy
-                  mood at Soul Breeze.
+                  Dennis is one of the key players in our restaurant team and is part of the happy mood at Soul Breeze.
+
                 </Card.Text>
               </Card.Body>
             </Card>
@@ -131,7 +128,7 @@ const Faces = () => {
                   Ben Mr 4%
                 </Card.Title>
                 <Card.Text className="lead">
-                  If you want to live healthy you need to go to the gym regularly so come to soulbreeze and Ben  our gym Instructor will help you keep fit.
+                  If you want to live healthy, you need to visit the gym regularly. So come to Soul Breeze and Ben, our gym Instructor, will help you keep fit.
                 </Card.Text>
               </Card.Body>
             </Card>
@@ -159,7 +156,8 @@ const Faces = () => {
                   Faiz Tennis coach
                 </Card.Title>
                 <Card.Text className="lead">
-                  Faiz Our tennis coach is one of the top seeded players in Africa. Come and play tennis with him or even bring you kids along for a tennis class.
+                  Faiz, our tennis coach, is one of the top seeded players in Africa. Come and play tennis with him or even bring your kids along for tennis classes.
+
                 </Card.Text>
               </Card.Body>
             </Card>

@@ -51,8 +51,7 @@ const Rooms = () => {
                   Standard Room
                 </Card.Title>
                 <Card.Text className="lead ">
-                  Enjoy more privacy and comfort inside the room in our Suites
-                  with a comfortable twin bed, ensuite shower and more.
+                  Enjoy your privacy and comfort in our well appointed deluxe rooms with king-size beds, where you will be at liberty to enjoy the cold or warm water of the free-standing rain shower in the bathroom.
                 </Card.Text>
 
                 <Button
@@ -86,8 +85,7 @@ const Rooms = () => {
                   Sea View
                 </Card.Title>
                 <Card.Text className="lead">
-                  A cozy and private room with comforts, a private bathroom and
-                  easy access to all the facilities right at your doorstep.
+                  A cozy and private room with a beguiling view of the turquoise waters of the Indian Ocean.  It has a private bathroom and from the location of the room, you have easy access to all the facilities at the resort
                 </Card.Text>
 
                 <Button
@@ -120,8 +118,7 @@ const Rooms = () => {
                   Banda Room
                 </Card.Title>
                 <Card.Text className="lead ">
-                  Enjoy more privacy and comfort inside the room in our Suites
-                  with a comfortable twin bed, ensuite shower and more.
+                  Enjoy more privacy and comfort in our Banda rooms where you will unwind on the comfortable queen-size beds. You will also be at liberty to take pleasure under the cold or warm water of the free-standing rain shower in the bathrooms.
                 </Card.Text>
 
                 <Button

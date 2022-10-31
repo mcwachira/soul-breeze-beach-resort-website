@@ -71,13 +71,7 @@ const Friends = () => {
             <h3 className="display-4">Kitemotion</h3>
 
             <p className="lead  text-sm-start">
-              KiteMotion School is  located on one of the most
-              beautiful beaches of the Kenyan coast. KiteMotion is the only
-              kite surfing  full-time school at Diani Beach. We teach according to the
-              standards of the international organization IKO ( International
-              Kiteboarding Organization ), after completing the training you
-              will receive a certificate that will allow you to rent equipment
-              around the world!
+              KiteMotion School is located at the Soul Breeze Resort sea front, one of the most beautiful locations on the Kenyan coast. KiteMotion is the only kite surfing full-time school at Diani Beach. Our training is world class. It is conducted according to the guidelines and the high standards set by the International Kiteboarding Organization (IKO). After completing the training, you will receive a certificate that will allow you to rent equipment anywhere in the world to enjoy your surfing!
             </p>
             <Button
               variant="outline-warning "
@@ -122,15 +116,7 @@ const Friends = () => {
             <h3 className="display-4">Scuba Duka</h3>
 
             <p className="lead  text-sm-start">
-              Welcome to Scuba Duke located on the world-famous Diani Beach at
-              the Soul Breeze Beach Resort. We offer all PADI and SSI scuba
-              diving courses from beginner to Dive master level. We run daily
-              dive trips to the local coral reefs and ship wrecks and can also
-              provide snorkelling experiences inside the Diani Reef. The scuba
-              diving in Diani is awesome with the possibility of sighting whale
-              sharks at certain times of the year, manta rays, dolphins, turtles
-              and much more coral reef life. What are you waiting for? Come
-              diving with Scuba Duka today!
+              Welcome to Scuba Duka, also located at the Soul Breeze Beach Resort seafront. We offer all PADI and SSI scuba diving courses from beginner to Dive master level. We run daily dive trips to the local coral reefs and ship wrecks and we also provide reef snorkeling excursions. The scuba diving in Diani is awesome and depending on the time of the year, there is the possibility of sighting whale sharks, manta rays, dolphins, turtles and much more sea life near the reef. What are you waiting for? Come diving with Scuba Duka today!
             </p>
             <Button
               variant="outline-warning "
