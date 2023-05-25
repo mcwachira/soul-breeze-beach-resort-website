@@ -24,7 +24,7 @@ const Layout = () => {
       location="bottom"
       buttonText="Accept"
       declineButtonText="Decline"
-      cookieName="gatsby-gdpr-google-analytics">
+      cookieName="gatsby-gdpr-google-analytics"
   style={{ background: "#2B373B" }}
   buttonStyle={{ color: "#4e503b", fontSize: "13px" }}
   expires={150}>
