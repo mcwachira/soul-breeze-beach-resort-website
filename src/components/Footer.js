@@ -76,6 +76,14 @@ const Footer = () => {
           <p className="text-center text-white">
             Copyright {new Date().getFullYear()} Soul Breeze Beach Resort- ALL RIGHTS RESERVED
           </p>
+
+          <p className="text-center text-white">
+<Link to='https://www.privacypolicygenerator.info/live.php?token=YfQwNBlkOw62eQzK3KLzr5DzLLdpLhJV'>
+  Private Policy
+</Link>
+            </p>
+            
+          
         </CopyRight>
       </Row>
     </FooterData>
