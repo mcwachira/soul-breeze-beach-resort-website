@@ -13,6 +13,7 @@ import {
 //import Images
 
 import Logo from "../assets/images/logos/soulbreeze-logo.png"
+import { Link } from "gatsby"
 
 const Footer = () => {
   return (
@@ -78,7 +79,7 @@ const Footer = () => {
           </p>
 
           <p className="text-center text-white">
-<Link to='https://www.privacypolicygenerator.info/live.php?token=YfQwNBlkOw62eQzK3KLzr5DzLLdpLhJV'>
+<Link to='/PrivacyPolicy'>
   Private Policy
 </Link>
             </p>
