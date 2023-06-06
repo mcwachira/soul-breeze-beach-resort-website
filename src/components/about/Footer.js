@@ -13,6 +13,7 @@ import {
 //import Images
 
 import Logo from "../../assets/images/logos/soulbreeze-logo.png"
+import { Link } from "gatsby"
 
 const Footer = () => {
   return (
