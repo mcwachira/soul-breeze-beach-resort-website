@@ -69,7 +69,13 @@ const Footer = () => {
             <Twitter />
           </SocialMedia>
 
-
+          <Row>
+            <Col md={4} sm={12}>
+            <Link className="lead" to='/PrivacyPolicy'>
+  Privacy Policy
+</Link>
+            </Col>
+</Row>
         </Col>
       </Row>
       <Row>
@@ -79,9 +85,7 @@ const Footer = () => {
           </p>
 
           <p className="text-center text-white">
-<Link to='/PrivacyPolicy'>
-  Private Policy
-</Link>
+
             </p>
             
           

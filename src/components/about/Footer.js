@@ -69,6 +69,14 @@ const Footer = () => {
           </SocialMedia>
 
 
+       
+          <Row>
+            <Col md={4} sm={12}>
+            <Link className="lead" to='/PrivacyPolicy'>
+  Privacy Policy
+</Link>
+            </Col>
+</Row>
         </Col>
       </Row>
       <Row>
