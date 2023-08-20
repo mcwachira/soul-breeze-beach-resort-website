@@ -14,7 +14,7 @@ import {
 
 //importing images
 
-import Salim from "../assets/images/salim.jpg"
+import Chef-Roba from "../assets/images/chef-roba.jpg"
 import Pool from "../assets/images/pool.jpeg"
 import Relax from "../assets/images/relax.jpeg"
 import Creek from "../assets/images/creek.jpg"
@@ -73,7 +73,7 @@ const Amenities = () => {
             >
               <Image
                 className="card-img-top"
-                src={Salim}
+                src={Chef-Roba}
                 alt="Salim the head chef"
                 waves
                 fluid
