@@ -14,7 +14,7 @@ import {
 
 //importing images
 
-import Chef-Roba from "../assets/images/chef-roba.jpg"
+import ChefRoba from "../assets/images/chef-roba.jpg"
 import Pool from "../assets/images/pool.jpeg"
 import Relax from "../assets/images/relax.jpeg"
 import Creek from "../assets/images/creek.jpg"
@@ -73,7 +73,7 @@ const Amenities = () => {
             >
               <Image
                 className="card-img-top"
-                src={Chef-Roba}
+                src={ChefRoba}
                 alt="Salim the head chef"
                 waves
                 fluid
@@ -83,8 +83,8 @@ const Amenities = () => {
                   Family Friendly
                 </Card.Title>
                 <Card.Text className="lead">
-                  Kids and Families are welcomed to enjoy a fun day out, good
-                  food and have some fun on the pool.
+                  Kids and Families are welcome to enjoy a fun day out, good
+                  food and have some fun in the pool.
                 </Card.Text>
               </Card.Body>
             </Card>
@@ -108,7 +108,7 @@ const Amenities = () => {
                   Relaxation
                 </Card.Title>
                 <Card.Text className="lead">
-                  Enjoy and relax at our massage and parlour.
+                  Enjoy and relax at our massage and parlor.
                 </Card.Text>
               </Card.Body>
             </Card>
@@ -133,7 +133,7 @@ const Amenities = () => {
                 </Card.Title>
                 <Card.Text className="lead">
                   Discover the surrounding villages, learn more about the real
-                  Africa, go to Safaris, Diving and more.
+                  Africa, go to Safaris, Diving, and more.
                 </Card.Text>
               </Card.Body>
             </Card>
