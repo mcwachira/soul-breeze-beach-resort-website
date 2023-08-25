@@ -14,7 +14,7 @@ import {
 
 //importing images
 
-import ChefRoba from "../assets/images/chef-roba.jpg"
+import ChefRoba from "../assets/images/Chef-roba.jpg"
 import Pool from "../assets/images/pool.jpeg"
 import Relax from "../assets/images/relax.jpeg"
 import Creek from "../assets/images/creek.jpg"
