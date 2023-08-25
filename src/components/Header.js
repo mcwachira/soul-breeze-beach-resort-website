@@ -1,8 +1,8 @@
 import React, { useState } from 'react'
 import styles from "styled-components"
-import VideoLarge from '../assets/videos/VideoLarge.mp4'
-import VideoMedium from '../assets/videos/VideoMedium.mp4'
-import VideoSmall from '../assets/videos/VideoSmall.mp4'
+import VideoLarge from '../assets/videos/soul-large.mp4'
+import VideoMedium from '../assets/videos/soul-medium.mp4'
+import VideoSmall from '../assets/videos/soul-small.mp4'
 import { Container, Row } from "react-bootstrap"
 const Header = () => {
   //const src = getVideoSrc(window.innerWidth);
